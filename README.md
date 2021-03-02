@@ -1,4 +1,4 @@
-# paralell-resistors-py
+# parallel-resistors-py
 Simple python script to calculate the resistance of any amount of electrical resistors in parallel.
 
 
